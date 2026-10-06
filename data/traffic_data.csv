@@ -1,0 +1,11 @@
+road_id,road_name,distance_km,traffic_level,average_speed_kmh,accident,road_status
+R001,Road A, 5.2, LOW, 50, NO, OPEN
+R002,Road B, 4.8, HIGH, 15, NO, OPEN
+R003,Road C, 6.1, MEDIUM, 30, NO, OPEN
+R004,Road D, 5.5, LOW, 45, NO, OPEN
+R005,Road E, 4.2, HIGH, 12, YES, OPEN
+R006,Road F, 7.0, LOW, 55, NO, OPEN
+R007,Road G, 3.9, MEDIUM, 28, NO, OPEN
+R008,Road H, 5.8, HIGH, 18, NO, OPEN
+R009,Road I, 6.5, LOW, 48, NO, OPEN
+R010,Road J, 4.5, CLOSED, 0, YES, CLOSED
